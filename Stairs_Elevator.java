@@ -35,11 +35,11 @@ public class Stairs_Elevator {
 		d2=2*n;
 		t2=d2/v2;
 		if(t1>t2) {
-			System.out.println("Stairs");
+			System.out.println("Elevator");
 			
 		}
 		else {
-			System.out.println("Elevator");
+			System.out.println("Stairs");
 		}
 		
 		
